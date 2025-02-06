@@ -16,7 +16,7 @@ export const SITE = {
 export const ME = {
     name: "GeauxWeisbeck4.dev",
     profession: "Software Engineer | Full Stack Developer",
-    profileImage: "pp2.png",
+    profileImage: "andrewweisbeck.jpeg",
     profileFacts: [
         {
             value: 5,
@@ -34,7 +34,7 @@ export const ME = {
     contactInfo: {
         email: "andrew.weisbeck@gmail.com",
         linkedin: "https://www.linkedin.com/in/geauxweisbeck4",
-        resumeDoc: "resume.pdf",
+        resumeDoc: "AndrewCV.pdf",
     },
     aboutMe: "Full-Stack Software Developer who loves computer science, design, and psychology - figuring out how to make a living at the intersection of those three things. Self-taught, curious, and intrinsically motivated. Available for work and open to new opportunities.",
 }

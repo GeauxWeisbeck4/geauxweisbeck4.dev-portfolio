@@ -22,13 +22,13 @@ export default {
 			colors: {
 				// Light mode colors
 				'light-theme': '#E9EBEC',
-				'primary-light': '#FBD144',
-				'primary-hover-light': '#FFE071',
+				'primary-light': '#1ECBE1',
+				'primary-hover-light': '#4BD5E7',
 
 				// Dark mode colors
 				'dark-theme': '#0C151D',
-				'primary-dark': '#FFE071',
-				'primary-hover-dark': '#FBD144',
+				'primary-dark': '#1ECBE1',
+				'primary-hover-dark': '#4BD5E7',
 
 				// Neutrals
 				'n200': '#d7d9da',
