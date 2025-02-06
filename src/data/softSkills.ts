@@ -27,7 +27,7 @@ const softSkills: SoftSkill[] = [
     {
         name: "Creativity",
         icon: "creativity"
-    }
+    }``
 ];
 
 export default softSkills;
