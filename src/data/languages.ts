@@ -7,28 +7,40 @@ interface Language {
 
 const languages: Language[] = [
     {
-        name: "English",
-        level: "Native",
-        description: "I speak fluently and write fluently",
+        name: "JavaScript/Typescript",
+        level: "Expert",
+        description: "I can write and understand any code in JavaScript and Typescript.",
         show: true
     },
     {
-        name: "Spanish",
-        level: "Bilingual",
-        description: "I speak fluently and write fluently",
+        name: "Go",
+        level: "Expert",
+        description: "I can write and understand any code in Go.",
         show: true
     },
     {
-        name: "French",
-        level: "B1",
-        description: "I speak fluently and write fluently",
+        name: "SQL",
+        level: "Expert",
+        description: "I can effectively use SQL to create transactions and search SQL databases.",
         show: true
     },
     {
-        name: "Italian",
-        level: "B2",
-        description: "I speak fluently and write fluently",
-        show: false
+        name: "Python",
+        level: "Expert",
+        description: "I can write and understand any code in Python.",
+        show: true
+    },
+    {
+        name: "C",
+        level: "Intermediate",
+        description: "I can write many programs in C and can understand any code upon further investigation.",
+        show: true
+    },
+    {
+        name: "Python",
+        level: "Expert",
+        description: "I can write and understand any code in Python.",
+        show: true
     }
 ];
 

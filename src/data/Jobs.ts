@@ -44,31 +44,47 @@ interface WorkExperience {
  */
 const workExperience:WorkExperience[] = [
     {
-        title: "Frontend Developer",
-        startDate: "2020-03-10",
-        company: "Google Inc",
+        title: "Full-Stack Developer/Owner",
+        startDate: "2020-01-01",
+        company: "Tar Heel Dev Studio",
         location: "United States",
-        description: "Developed and maintained web applications using React, NextJs, and Tailwind CSS.",
+        description: "Deliver high quality web development, marketing, and design services to small businesses and non-profits.",
         goals: [
-            "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-            "Worked with the team to develop and maintain web applications using React, NodeJs, and MongoDB.",
-            "Created and maintained web applications using React, NodeJs, and MongoDB.",
+            "Architected and implemented scalable backend systems using Node.js, MongoDB, Typescript, PostgreSQL, and Express.",
+            "Developed responsive front-end interfaces with React and Next.js.",
+            "Optimized website performance and implemented SEO best practices.",
+            "Built and maintained RESTful APIs using Python and Django.",
+            "Created interactive data visualizations with D3.js and Chart.js.",
+            "Implemented automated testing and continuous integration pipelines.",
         ],
         currentJob: true,
     },
     {
-        title: "Software Engineer",
-        startDate: "2018-03-10",
-        endDate: "2020-03-10",
-        company: "Company Name",
-        location: "United States",
-        description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
+        title: "SOC Analyst",
+        startDate: "2021-06-01",
+        endDate: "2021-11-22",
+        company: "Iron Range Cyber, formerly CyberOpz",
+        location: "Raleigh, NC, United States",
+        description: "Worked on a team of SOC analysts to identify and respond to security incidents for clients.",
         goals: [
-            "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-            "Worked with the team to develop and maintain web applications using React, NodeJs, and MongoDB.",
-            "Created and maintained web applications using React, NodeJs, and MongoDB.",
+            "Improved incident response rate by 15% by coordinating with SOC managers and analyzing security events.",
+            "Enhanced system security by evaluating and improving authentication methods by 20%.",
+            "Implemented vulnerability scanning and patching to reduce vulnerability exposure by 30%.",
         ],
         currentJob: false,
     },
+    {
+        title: "Content Creator",
+        startDate: "2018-01-01",
+        company: "Geaux Code/WeisMind/Freelance",
+        location: "North Carolina, United States",
+        description: "Deliver high quality content for various blogs, newsletters, and other various platforms.",
+        goals: [
+            "Created engaging content for tech blogs and newsletters.",
+            "Developed tutorials and guides for software development and cybersecurity topics.",
+            "Collaborated with other content creators to produce high-quality content.",
+        ],
+        currentJob: true,
+    }
 ];
 export default workExperience;
